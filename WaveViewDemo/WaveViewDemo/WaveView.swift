@@ -2,8 +2,8 @@
 //  WaveView.swift
 //  smile_iOS
 //
-//  Created by MacBook on 5/18/20.
-//  Copyright © 2020 Tomosia. All rights reserved.
+//  Created by Apple on 7/5/20.
+//  Copyright © 2020 Apple. All rights reserved.
 //
 
 import UIKit
